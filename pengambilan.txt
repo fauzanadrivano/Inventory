@@ -1,0 +1,9 @@
+2;Semen Padang;Fauzan;10;Dijual;Sat Jan 02 23:17:38 2021
+2;Semen Padang;Syahrul;4;Dipinjam;Sat Jan 02 23:19:28 2021
+2;Semen Padang;Agnes;4;Dijual;Sat Jan 02 23:19:50 2021
+4;Kursi Merah;Fauzan;5;Dijual;Sun Jan 03 16:51:14 2021
+4;Kursi Merah;Fauzan;2;Dijual;Sun Jan 03 16:51:33 2021
+2;Semen Padang;Syahrul;4;Dijual;Sun Jan 03 16:55:06 2021
+4;Kursi Merah;Agnes;7;Dijual;Sun Jan 03 16:56:25 2021
+9;Tromol Motor;Syahrul;4;Dijual;Sun Jan 03 16:58:45 2021
+3;Plamir Tembok;Fauzan;25;dijual;Fri Jun 04 13:35:01 2021

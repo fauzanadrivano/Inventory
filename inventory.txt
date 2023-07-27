@@ -1,0 +1,7 @@
+3;Plamir Tembok;15;Fri Jun 04 13:35:01 2021
+4;Kursi Merah;4;Sun Jan 03 16:56:25 2021
+5;Lem Rajawali;10;Sun Dec 20 23:01:08 2020
+6;Lem Aibon;40;Sun Dec 20 23:22:45 2020
+7;Kabel Tis;40;Sun Dec 20 23:23:23 2020
+8;Djarum 76;20;Sun Dec 20 23:27:00 2020
+9;Tromol Motor;16;Thu Jan 14 14:05:13 2021
